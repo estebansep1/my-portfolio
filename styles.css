@@ -1,0 +1,117 @@
+ body {
+    background-color: rgb(34, 4, 71);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    position: fixed;
+    height: 70px;
+    right: 0;
+    left: 0;
+    background-color: rgb(102, 6, 147);
+    box-sizing: border-box;
+    -webkit-box-shadow: 0px 17px 59px 11px rgba(63, 0, 199, 0.62);
+    -moz-box-shadow: 0px 17px 59px 11px rgba(63, 0, 199, 0.62);
+    box-shadow: 0px 17px 59px 11px rgba(63, 0, 199, 0.62);
+  }
+  
+   .navbar h1 {
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+  }
+  
+   .navbar ul {
+    position: relative;
+    height: 70px;
+    left: 950px;
+  }
+  
+   .navbar li {
+    display: inline-block;
+    margin-left: 5px;
+    width: 90px;
+    height: 40px;
+    padding-top: 25px;
+    font-weight: bold;
+    list-style: none;
+    text-align: center;
+    text-transform: uppercase;
+  } 
+  
+ .navbar ul li a {
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+ .navbar ul li a:hover {
+    background-color: #a581ff5b;
+    box-shadow: 0px 0px 400px 86px #a481ff;
+    -webkit-box-shadow: 0px 0px 400px 86px #a481ff;
+    -moz-box-shadow: 0px 0px 400px 86px #a481ff;
+}
+
+  .home-container {
+    color: white;
+    width: 100%;
+    justify-content: space-between;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 70px 10% 0;
+  }
+
+  .home-content {
+    max-width: 600px;
+  }
+
+ .home-content h3 {
+    font-size: 32px;
+    font-weight: 700;
+ }
+
+ .home-content h1{
+    font-size: 60px;
+    font-weight: 900;
+ }
+
+  .home-content p {
+    font-size: 20px;
+ } 
+
+.social-links a {
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid aquamarine;
+    border-radius: 50%;
+    font-size: 30px;
+    color: aquamarine;
+    text-decoration: none;
+    margin: 30px 15px 30px 0
+}
+
+.social-links a:hover {
+    background-color: aquamarine;
+    color:#bd24b6;
+    box-shadow: 0 0 20px aquamarine
+} 
+
+.text {
+    color: aquamarine
+}
