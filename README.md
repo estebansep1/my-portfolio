@@ -29,17 +29,9 @@ This portfolio website serves as a platform for me, Esteban Sepulveda, to showca
 - HTML5
 - CSS3
 - JavaScript
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
 ## Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/your-username/your-portfolio.git
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
