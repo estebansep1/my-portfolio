@@ -1,12 +1,6 @@
 # My Portfolio
 
-<<<<<<< HEAD
 **Important:** This project is a work in progress, and some features may not be fully implemented yet. However, feel free to explore the existing content as i strive to finish my own personal portfolio! Thank you for your understanding!
-
-=======
-Welcome to my portfolio website! This repository contains the source code for my personal portfolio website, where you can learn more about me, my projects, and how to get in touch.
->>>>>>> origin/main
-
 ## Table of Contents
 
 - [Introduction](#introduction)
