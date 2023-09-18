@@ -9,7 +9,7 @@
   
   .navbar {
     position: fixed;
-    height: 70px;
+    height: auto;
     right: 0;
     left: 0;
     background-color: rgb(102, 6, 147);
@@ -34,6 +34,7 @@
     position: relative;
     height: 70px;
     left: 950px;
+    padding-left: 400px;
   }
   
    .navbar li {
